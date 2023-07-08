@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About App
+
+This Nextjs app is a simple Todo app built with the below
+
+- Tailwind for styling
+- Prisma for database relationship
+
 ## Getting Started
 
 First, run the development server:
